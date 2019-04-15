@@ -1,0 +1,10 @@
+/vendor
+/cert
+/.idea
+/.vscode
+/nbproject
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+*.DS_Store
